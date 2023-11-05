@@ -1,4 +1,6 @@
-# Project 1
+# Project 1: LIDC-IDRI Lung Cancer Classification
+
+## Using Random Forest
 
  Group 5:
    - Ana Pinto up202105085
